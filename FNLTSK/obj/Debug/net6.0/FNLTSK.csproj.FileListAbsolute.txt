@@ -1,0 +1,15 @@
+C:\GB\FNLTSK\bin\Debug\net6.0\FNLTSK.exe
+C:\GB\FNLTSK\bin\Debug\net6.0\FNLTSK.deps.json
+C:\GB\FNLTSK\bin\Debug\net6.0\FNLTSK.runtimeconfig.json
+C:\GB\FNLTSK\bin\Debug\net6.0\FNLTSK.dll
+C:\GB\FNLTSK\bin\Debug\net6.0\FNLTSK.pdb
+C:\GB\FNLTSK\obj\Debug\net6.0\FNLTSK.csproj.AssemblyReference.cache
+C:\GB\FNLTSK\obj\Debug\net6.0\FNLTSK.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\FNLTSK\obj\Debug\net6.0\FNLTSK.AssemblyInfoInputs.cache
+C:\GB\FNLTSK\obj\Debug\net6.0\FNLTSK.AssemblyInfo.cs
+C:\GB\FNLTSK\obj\Debug\net6.0\FNLTSK.csproj.CoreCompileInputs.cache
+C:\GB\FNLTSK\obj\Debug\net6.0\FNLTSK.dll
+C:\GB\FNLTSK\obj\Debug\net6.0\refint\FNLTSK.dll
+C:\GB\FNLTSK\obj\Debug\net6.0\FNLTSK.pdb
+C:\GB\FNLTSK\obj\Debug\net6.0\FNLTSK.genruntimeconfig.cache
+C:\GB\FNLTSK\obj\Debug\net6.0\ref\FNLTSK.dll
